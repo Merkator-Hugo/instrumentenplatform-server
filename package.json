@@ -24,16 +24,16 @@
   "license": "MIT",
   "dependencies": {
     "apollo-datasource": "^0.7.3",
-    "apollo-server": "^2.21.0",
+    "apollo-server": "^2.21.1",
     "consola": "^2.15.3",
     "dotenv": "^8.2.0",
     "graphql": "^15.5.0",
-    "knex": "^0.21.17",
+    "knex": "^0.95.1",
     "mysql": "^2.18.1",
     "objection": "^2.2.14"
   },
   "devDependencies": {
-    "eslint": "^7.19.0",
+    "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.7"
